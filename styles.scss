@@ -1,0 +1,61 @@
+@import "nav";
+@font-face {
+  font-family: Bebas;
+  src: url(Bebas.ttf);
+}
+
+/*typeography*/
+.ub{
+  font-family: 'Ubuntu', sans-serif;
+}
+.be{
+  font-family:Bebas;
+}
+.bold{
+  font-weight: bold;
+}
+
+
+/*color accents*/
+.dark-orange{
+  color:#be3600;
+}
+.white{
+  color:#fff;
+}
+.grey{
+  color:#313131;
+}
+.orange{
+  color:#ff6200;
+}
+/*margin spacing*/
+.mt{
+  margin-top:3%;
+}
+.mt4per{
+  margin-top:4%;
+}
+
+/*top nav*/
+.top-nav{
+  height:30px;
+  background-color: #ff6200;
+}
+
+/*main nav*/
+.main-nav{
+  height: 120px;
+  background-color: #f9f9f9;
+}
+a.nav{
+  text-transform: uppercase;
+  color:#333333;
+  border-bottom: 5px solid #f9f9f9;
+}
+a.nav:hover{
+  text-transform: uppercase;
+  color:#333333;
+  font-weight: bold;
+  border-bottom:5px solid #ff6200;
+}

@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Bebas;
+  src: url(Bebas.ttf);
+}
+nav a.nav-link:hover{
+  border-bottom: 5px solid #ff6200;
+  font-weight: bold;
+}
+nav a.nav-link:active{
+  border-bottom: 5px solid #ff6200;
+  font-weight: bold;
+}
+h3, h5{
+  color: #ff6200;
+}
