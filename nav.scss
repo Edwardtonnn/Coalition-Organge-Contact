@@ -13,3 +13,21 @@ nav a.nav-link:active{
 h3, h5{
   color: #ff6200;
 }
+.border-bottom{
+  border-bottom: 5px solid #585858;
+  padding-bottom:.5em;
+  width:90%;
+}
+
+form{
+  width:90%;
+}
+.button{
+  background-color:#ff6200;
+  color:white;
+  padding-left:2em;
+  padding-right:2em;
+  padding-top:.2em;
+  padding-bottom:.25em;
+  border-style: none;
+}
